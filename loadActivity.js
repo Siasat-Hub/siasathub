@@ -69,29 +69,51 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     ];
 
-    // Find the activity based on ID
-    const activity = activities.find(a => a.id === activityId);
-    
-    if (activity) {
-        document.getElementById("activity-title").textContent = activity.title;
-        document.getElementById("activity-date").textContent = activity.date;
-        document.getElementById("activity-content1").textContent = activity.content1;
-        document.getElementById("activity-content2").textContent = activity.content2;
-        document.getElementById("activity-sub-heading1").textContent = activity.subheading1;
-        document.getElementById("activity-sub-content11").textContent = activity.subcontent11;
-        document.getElementById("activity-sub-content12").textContent = activity.subcontent12;
-        document.getElementById("activity-sub-content13").textContent = activity.subcontent13;
-        document.getElementById("activity-sub-heading2").textContent = activity.subheading2;
-        document.getElementById("activity-sub-content21").textContent = activity.subcontent21;
-        document.getElementById("activity-sub-content22").textContent = activity.subcontent22;
-        document.getElementById("activity-sub-content23").textContent = activity.subcontent23;
-        document.getElementById("activity-sub-heading3").textContent = activity.subheading3;
-        document.getElementById("activity-sub-content31").textContent = activity.subcontent31;
-        document.getElementById("activity-sub-content32").textContent = activity.subcontent32;
-        document.getElementById("activity-sub-content33").textContent = activity.subcontent33;
-        document.getElementById("activity-image1").src = activity.image_url1;
-        document.getElementById("activity-image2").src = activity.image_url2;
-    } else {
-        document.body.innerHTML = "<h2>Activity Not Found</h2>";
+     // Dynamically load activities in activities.html
+     const container = document.getElementById("activities-container");
+     if (container) {
+         activities.forEach(activity => {
+             const activityHTML = `
+                 <div class="col-sm-6 col-lg-4 grid-item">
+                     <div class="card bg-transparent">
+                         <div class="overflow-hidden rounded-3">
+                             <img src="${activity.image_url1}" class="card-img" alt="course image">
+                             <div class="bg-overlay bg-dark opacity-4"></div>
+                         </div>
+                         <div class="card-body-st px-3">
+                             <h6 class="card-title"><a href="activitydetails.html?id=${activity.id}">${activity.title}</a></h6>
+                         </div>
+                     </div>
+                 </div>`;
+             container.innerHTML += activityHTML;
+         });
+     }
+
+     // Load activity details in activitydetails.html
+    if (activityId) {
+        const activity = activities.find(a => a.id === activityId);
+        if (activity) {
+            document.getElementById("activity-title").textContent = activity.title;
+            document.getElementById("activity-date").textContent = activity.date;
+            document.getElementById("activity-content1").textContent = activity.content1;
+            document.getElementById("activity-content2").textContent = activity.content2;
+            document.getElementById("activity-sub-heading1").textContent = activity.subheading1;
+            document.getElementById("activity-sub-content11").textContent = activity.subcontent11;
+            document.getElementById("activity-sub-content12").textContent = activity.subcontent12;
+            document.getElementById("activity-sub-content13").textContent = activity.subcontent13;
+            document.getElementById("activity-sub-heading2").textContent = activity.subheading2;
+            document.getElementById("activity-sub-content21").textContent = activity.subcontent21;
+            document.getElementById("activity-sub-content22").textContent = activity.subcontent22;
+            document.getElementById("activity-sub-content23").textContent = activity.subcontent23;
+            document.getElementById("activity-sub-heading3").textContent = activity.subheading3;
+            document.getElementById("activity-sub-content31").textContent = activity.subcontent31;
+            document.getElementById("activity-sub-content32").textContent = activity.subcontent32;
+            document.getElementById("activity-sub-content33").textContent = activity.subcontent33;
+            document.getElementById("activity-image1").src = activity.image_url1;
+            document.getElementById("activity-image2").src = activity.image_url2;
+        } else {
+            document.body.innerHTML = "<h2>Activity Not Found</h2>";
+        }
     }
+
 });
