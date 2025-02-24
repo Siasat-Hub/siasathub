@@ -22,27 +22,50 @@ document.addEventListener("DOMContentLoaded", function () {
             "subcontent31": "The Consulate General's 46th National Day celebration served as a reminder of the importance of diplomatic ties in fostering peace, development, and cultural exchange. The event featured traditional Iranian music, cultural performances, and a showcase of Iranian cuisine, offering a glimpse into Iran's vibrant heritage.",
             "subcontent32": "The Consulate General expressed gratitude to Amer Ali Khan and other esteemed guests for their participation and support in strengthening Iran-India relations. The occasion reinforced the enduring friendship between the two nations and the pivotal role Telangana plays in this partnership.",
             "subcontent33": "As the celebrations concluded, attendees left with a renewed sense of camaraderie and optimism for a future of continued cooperation between India and Iran, particularly through the enduring bond shared with Telangana.",
-            "image_url": "assets/images/a1.jpeg"
+            "image_url1": "assets/images/a1.jpeg",
+            "image_url2": "assets/images/a1.jpeg"
         },
         {
             "id": "2",
             "date": "Hyderabad, February 16, 2025 ",
-            "title": "Amir Ali Khan to Speak at APCR’s Hyderabad Event on Justice and Democracy.",
+            "title": "Amer Ali Khan to Speak at APCR’s Hyderabad Event on Justice and Democracy.",
             "content1": "The Association for Protection of Civil Rights (APCR), Hyderabad Chapter, is set to host an insightful discussion on the theme 'Making Sense of Justice in Changing Democracy'. The event, scheduled to take place at Nehru Auditorium, Madina Education Centre, Nampally, will bring together prominent activists, legal experts, and thought leaders to address the evolving nature of justice in contemporary democracy.",
-            "content2": "One of the key speakers at the event is Amir Ali Khan, a respected journalist, MLC (Member of Legislative Council), and News Editor at Siasat. With his vast experience in journalism and politics, Amir Ali Khan is expected to offer a unique perspective on media’s role in safeguarding democracy, addressing civil rights violations, and fostering informed public discourse.",
+            "content2": "One of the key speakers at the event is Amer Ali Khan, a respected journalist, MLC (Member of Legislative Council), and News Editor at Siasat. With his vast experience in journalism and politics, Amer Ali Khan is expected to offer a unique perspective on media’s role in safeguarding democracy, addressing civil rights violations, and fostering informed public discourse.",
             "subheading1": "A Voice for Justice and Civil Rights",
-            "subcontent11": "Amir Ali Khan, known for his fearless journalism, has been a vocal advocate for marginalized communities. As a news editor at Siasat, a leading Urdu daily, he has consistently highlighted social injustices, governmental policies, and human rights issues affecting various sections of society. His ability to present facts with clarity and integrity has earned him a reputation as a journalist who stands for truth and justice.",
+            "subcontent11": "Amer Ali Khan, known for his fearless journalism, has been a vocal advocate for marginalized communities. As a news editor at Siasat, a leading Urdu daily, he has consistently highlighted social injustices, governmental policies, and human rights issues affecting various sections of society. His ability to present facts with clarity and integrity has earned him a reputation as a journalist who stands for truth and justice.",
             "subcontent12": "",
             "subcontent13": "",
             "subheading2": "The Significance of the Event",
             "subcontent21": "The APCR event will feature a distinguished panel, including: Prof. Gali Vinod Kumar (Former Dean, Faculty of Law, OU), Adv. V. Raghunath (Senior Advocate & Former President, THCAA), Dr. Jasveen Jairath (Social & Environmental Activist), Nadeem Khan (Social Activist & National Secretary, APCR), Ravi Kanneganti (Activist & Co-Founder, Rythu Swarajya Vedika).",
             "subcontent22": "Moderated by Adv. Anees Ahmed, the discussion aims to explore challenges in upholding justice amid shifting political landscapes, the role of the judiciary, and the responsibilities of media and civil rights organizations in a changing democracy.",
             "subcontent23": "",
-            "subheading3": "Why Amir Ali Khan’s Role Matters?",
-            "subcontent31": "As both a politician and a media personality, Amir Ali Khan brings a dual perspective to the conversation. His background in journalism enables him to critically analyze political developments, while his experience as an MLC allows him to understand legislative and policy-making intricacies. His presence at the event underscores the critical role of free press and independent journalism in ensuring a just and democratic society.",
+            "subheading3": "Why Amer Ali Khan’s Role Matters?",
+            "subcontent31": "As both a politician and a media personality, Amer Ali Khan brings a dual perspective to the conversation. His background in journalism enables him to critically analyze political developments, while his experience as an MLC allows him to understand legislative and policy-making intricacies. His presence at the event underscores the critical role of free press and independent journalism in ensuring a just and democratic society.",
             "subcontent32": "",
             "subcontent33": "",
-            "image_url": "assets/images/a2.jpeg"
+            "image_url1": "assets/images/a2.jpeg",
+            "image_url2": "assets/images/a2.jpeg"
+        },
+        {
+            "id": "3",
+            "date": "Hyderabad, February 22, 2025 ",
+            "title": "S-Hub Collaborates with TOMCOM to Boost Employment Opportunities for Minorities in Telangana",
+            "content1": "In a landmark initiative aimed at empowering minorities in Telangana, S-Hub, the newly proposed innovation and skill development center, is set to collaborate with the Telangana Overseas Manpower Company Limited (TOMCOM) to enhance employment opportunities. Under the visionary leadership of Telangana MLC Amer Ali Khan, this collaboration is expected to provide skill training, overseas employment assistance, and job placement support to thousands of aspiring job seekers from minority communities.",
+            "content2": "",
+            "subheading1": "S-Hub: A Catalyst for Minority Empowerment",
+            "subcontent11": "S-Hub, modeled after the successful T-Hub, aims to nurture startups, facilitate skill development, and bridge the employment gap for minorities, particularly Muslims. Recognizing the need for specialized training and employment programs, Amer Ali Khan has been actively working towards making S-Hub a premier institution that provides both technical and vocational education tailored to the evolving job market.",
+            "subcontent12": "",
+            "subcontent13": "",
+            "subheading2": "TOMCOM’s Role in Enhancing Employment Prospects",
+            "subcontent21": "TOMCOM, a government agency focused on overseas employment, plays a crucial role in placing skilled candidates in well-paying jobs abroad. The collaboration between S-Hub and TOMCOM will ensure that candidates receive internationally recognized training, job counseling, and direct access to overseas job opportunities. This partnership will particularly benefit skilled workers and professionals from minority backgrounds who face barriers in securing employment.",
+            "subcontent22": "",
+            "subcontent23": "",
+            "subheading3": "Amer Ali Khan’s Vision for Minority Welfare",
+            "subcontent31": "Amer Ali Khan has been a vocal advocate for minority empowerment through education, skill development, and employment. By driving the S-Hub initiative, he aims to create a sustainable ecosystem where minorities can gain financial independence and contribute to economic growth. His role in forging this partnership with TOMCOM highlights his commitment to bridging the socio-economic gap and ensuring that the youth from minority communities receive the right support to excel in their careers.",
+            "subcontent32": "",
+            "subcontent33": "",
+            "image_url1": "assets/images/tomcom1.jpeg",
+            "image_url2": "assets/images/tomcom2.jpeg"
         }
     ];
 
@@ -66,7 +89,8 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("activity-sub-content31").textContent = activity.subcontent31;
         document.getElementById("activity-sub-content32").textContent = activity.subcontent32;
         document.getElementById("activity-sub-content33").textContent = activity.subcontent33;
-        document.getElementById("activity-image").src = activity.image_url;
+        document.getElementById("activity-image1").src = activity.image_url1;
+        document.getElementById("activity-image2").src = activity.image_url2;
     } else {
         document.body.innerHTML = "<h2>Activity Not Found</h2>";
     }
