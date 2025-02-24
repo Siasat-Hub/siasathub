@@ -17,6 +17,7 @@
     <link rel="stylesheet" type="text/css" href="assets/vendor/tiny-slider/tiny-slider.css"/>
     <link rel="stylesheet" type="text/css" href="assets/vendor/glightbox/css/glightbox.css"/>
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/addonstyles.css" />
 
   </head>
 
@@ -109,6 +110,16 @@
             </div>
           </div>
         </div>
+      </section>
+      <section class="pt-0 pb-0">
+          <div class="ticker-wrap">
+            <div class="ticker">
+              <a class="ticker__item">Letterpress chambray brunch.</a>
+              <a class="ticker__item">Vice mlkshk crucifix beard chillwave meditation hoodie asymmetrical Helvetica.</a>
+              <a class="ticker__item">Ugh PBR&B kale chips Echo Park.</a>
+              <a class="ticker__item">Gluten-free mumblecore chambray mixtape food truck. </a>
+            </div>
+          </div>
       </section>
 
       <section class="py-0 py-xl-5">
@@ -463,9 +474,27 @@ Visual Highlight: Show futuristic labs or researchers working on AI, robotics, o
       <i class="bi bi-arrow-up-short position-absolute top-50 start-50 translate-middle"></i>
     </div>
     <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="assets/vendor/tiny-slider/tiny-slider.js"></script>
     <script src="assets/vendor/glightbox/js/glightbox.js"></script>
     <script src="assets/vendor/purecounterjs/dist/purecounter_vanilla.js"></script>
     <script src="assets/js/functions.js"></script>
+    <script>
+      $(document).ready(function () {
+        function startTicker() {
+          $(".ticker").css({ transform: "translateX(100%)" }).animate(
+            { transform: "translateX(-100%)" },
+            15000,
+            "linear",
+            function () {
+              $(this).css("transform", "translateX(100%)");
+              startTicker();
+            }
+          );
+        }
+        startTicker();
+      });
+    </script>
+    
   </body>
 </html>
