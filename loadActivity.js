@@ -6,6 +6,30 @@ document.addEventListener("DOMContentLoaded", function () {
     const activities = [
         {
             "id": "1",
+            "date": "Hyderabad, December 1, 2024",
+            "title": "MLC Amer Ali Khan Launches S-Hub to Empower Youth and Entrepreneurs.",
+            "content1": "On November 29, 2024, Amer Ali Khan, Member of the Legislative Council (MLC) and News Editor of The Siasat Daily, inaugurated S-Hub, an initiative aimed at providing employment assistance, skill development, and startup guidance. The launch event took place at The Siasat Daily Auditorium in Hyderabad, attended by media representatives, entrepreneurs, and community members.",
+            "content2": "",
+            "subheading1": "Aim and Purpose of S-Hub",
+            "subcontent11": "Job Search & Career Growth – Providing job listings, resume-building support, and interview preparation.",
+            "subcontent12": "Skill Development – Enhancing communication skills, business strategies, and English proficiency.",
+            "subcontent13": "Startup & Business Guidance – Assisting entrepreneurs in launching and expanding businesses.",
+            "subcontent14": "Women Empowerment – Creating opportunities for women to showcase their talents and become financially independent.",
+            "subheading2": "Scope of S-Hub",
+            "subcontent21": "The initiative operates from Monday to Thursday, between 12 PM and 4 PM, at The Siasat Daily’s Office. It offers:",
+            "subcontent22": "Career counseling and job placement assistance. Workshops on communication, leadership, and soft skills. Mentorship for startups and business development. Training sessions in digital marketing, financial management, and entrepreneurship.",
+            "subcontent23": "S-Hub aims to bridge the gap between talent and opportunity, ensuring that young professionals and business aspirants receive the right guidance and mentorship to achieve their goals.",
+            "subcontent24": "",
+            "subheading3": "",
+            "subcontent31": "",
+            "subcontent32": "",
+            "subcontent33": "",
+            "subcontent34": "",
+            "image_url1": "",
+            "image_url2": ""
+        },
+        {
+            "id": "2",
             "date": "Hyderabad, 7th February 2025",
             "title": "The Consulate General of the Islamic Republic of Iran in Hyderabad Celebrates 46th National Day",
             "content1": "The Consulate General of the Islamic Republic of Iran in Hyderabad commemorated its 46th National Day on 7th February 2025, marking the anniversary of the establishment of the Islamic Republic. The event was held with great enthusiasm, bringing together dignitaries, diplomats, cultural enthusiasts, and prominent personalities from the city.",
@@ -26,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "image_url2": "assets/images/a1.jpeg"
         },
         {
-            "id": "2",
+            "id": "3",
             "date": "Hyderabad, February 16, 2025 ",
             "title": "Amer Ali Khan to Speak at APCR’s Hyderabad Event on Justice and Democracy.",
             "content1": "The Association for Protection of Civil Rights (APCR), Hyderabad Chapter, is set to host an insightful discussion on the theme 'Making Sense of Justice in Changing Democracy'. The event, scheduled to take place at Nehru Auditorium, Madina Education Centre, Nampally, will bring together prominent activists, legal experts, and thought leaders to address the evolving nature of justice in contemporary democracy.",
@@ -47,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "image_url2": "assets/images/a2.jpeg"
         },
         {
-            "id": "3",
+            "id": "4",
             "date": "Hyderabad, February 22, 2025 ",
             "title": "S-Hub Collaborates with TOMCOM to Boost Employment Opportunities for Minorities in Telangana",
             "content1": "In a landmark initiative aimed at empowering minorities in Telangana, S-Hub, the newly proposed innovation and skill development center, is set to collaborate with the Telangana Overseas Manpower Company Limited (TOMCOM) to enhance employment opportunities. Under the visionary leadership of Telangana MLC Amer Ali Khan, this collaboration is expected to provide skill training, overseas employment assistance, and job placement support to thousands of aspiring job seekers from minority communities.",
@@ -66,7 +90,8 @@ document.addEventListener("DOMContentLoaded", function () {
             "subcontent33": "",
             "image_url1": "assets/images/tomcom1.jpeg",
             "image_url2": "assets/images/tomcom2.jpeg"
-        }
+        },
+        
     ];
 
      // Dynamically load activities in activities.html
@@ -101,14 +126,17 @@ document.addEventListener("DOMContentLoaded", function () {
             document.getElementById("activity-sub-content11").textContent = activity.subcontent11;
             document.getElementById("activity-sub-content12").textContent = activity.subcontent12;
             document.getElementById("activity-sub-content13").textContent = activity.subcontent13;
+            document.getElementById("activity-sub-content14").textContent = activity.subcontent14;
             document.getElementById("activity-sub-heading2").textContent = activity.subheading2;
             document.getElementById("activity-sub-content21").textContent = activity.subcontent21;
             document.getElementById("activity-sub-content22").textContent = activity.subcontent22;
             document.getElementById("activity-sub-content23").textContent = activity.subcontent23;
+            document.getElementById("activity-sub-content24").textContent = activity.subcontent24;
             document.getElementById("activity-sub-heading3").textContent = activity.subheading3;
             document.getElementById("activity-sub-content31").textContent = activity.subcontent31;
             document.getElementById("activity-sub-content32").textContent = activity.subcontent32;
             document.getElementById("activity-sub-content33").textContent = activity.subcontent33;
+            document.getElementById("activity-sub-content34").textContent = activity.subcontent34;
             document.getElementById("activity-image1").src = activity.image_url1;
             document.getElementById("activity-image2").src = activity.image_url2;
         } else {

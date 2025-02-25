@@ -10,3 +10,10 @@ document.addEventListener('keydown', event => {
         event.preventDefault();
     }
 });
+
+//********************************************************************************* */
+// Script for whatsapp community
+function redirectToWhatsApp() {
+    // Replace the below URL with your actual WhatsApp Channel link
+    window.location.href = "https://whatsapp.com/channel/your-channel-id";
+}
