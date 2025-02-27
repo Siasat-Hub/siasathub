@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "subcontent32": "",
             "subcontent33": "",
             "subcontent34": "",
-            "image_url1": "",
+            "image_url1": "assets/images/launch.jpg",
             "image_url2": ""
         },
         {
@@ -90,6 +90,27 @@ document.addEventListener("DOMContentLoaded", function () {
             "subcontent33": "",
             "image_url1": "assets/images/tomcom1.jpeg",
             "image_url2": "assets/images/tomcom2.jpeg"
+        },
+        {
+            "id": "5",
+            "date": "Hyderabad, February 27, 2025",
+            "title": "Meenakshi Natarajan Joins TPCC Meeting: A Warm Welcome from Amer Ali Khan",
+            "content1": "The Telangana Pradesh Congress Committee (TPCC) meeting witnessed a momentous occasion as Meenakshi Natarajan, Telangana In-Charge, participated in the discussions to strengthen the Congress party in the state. The event was marked by a grand welcome extended by Amer Ali Khan, Member of the Telangana Legislative Council (MLC), along with other prominent Congress leaders.",
+            "content2": "",
+            "subheading1": "A Leader Committed to Party Values",
+            "subcontent11": "Meenakshi Natarajan is known for her deep-rooted commitment to the Congress party’s ideology, grassroots activism, and dedication to public welfare. As the newly appointed Telangana In-Charge, her presence at the TPCC meeting signifies a renewed focus on strengthening the party's foundation in the state.",
+            "subcontent12": "Amer Ali Khan, a key leader in Telangana politics, welcomed Meenakshi Natarajan with enthusiasm, acknowledging her experience and leadership qualities. He expressed confidence that her strategic vision and commitment to Congress values would play a crucial role in revitalizing the party in Telangana.",
+            "subcontent13": "",
+            "subheading2": "Congress Leaders Unite for Telangana’s Political Future",
+            "subcontent21": "The meeting saw the participation of several senior Congress leaders, including TPCC President Revanth Reddy, other state party officials, and national representatives. The discussions revolved around reviving grassroots-level engagement, mobilizing party workers, and formulating a strategy for the upcoming elections.",
+            "subcontent22": "With Meenakshi Natarajan’s leadership, the Congress party aims to strengthen its political base, address key issues affecting the people of Telangana, and present a strong alternative to the ruling government.",
+            "subcontent23": "",
+            "subheading3": "Amer Ali Khan’s Continued Support for Congress",
+            "subcontent31": "Amer Ali Khan has been actively involved in advocating for minority rights, social justice, and the empowerment of marginalized communities in Telangana. His role in welcoming Meenakshi Natarajan underscores his dedication to the party’s growth and his commitment to building a stronger Congress in the state.",
+            "subcontent32": "As Telangana gears up for future political challenges, the coming together of influential leaders like Meenakshi Natarajan, Amer Ali Khan, and Revanth Reddy signals a unified Congress determined to reclaim its position in the state’s political landscape.",
+            "subcontent33": "",
+            "image_url1": "assets/images/meenakshi_tpcc.jpeg",
+            "image_url2": ""
         },
         
     ];
