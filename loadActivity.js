@@ -112,6 +112,27 @@ document.addEventListener("DOMContentLoaded", function () {
             "image_url1": "assets/images/meenakshi_tpcc.jpeg",
             "image_url2": ""
         },
+        {
+            "id": "6",
+            "date": "Hyderabad, March 13, 2025",
+            "title": "Congress MLC Amer Ali Khan Encourages Muslim Youth to Pursue Entrepreneurship",
+            "content1": "Congress MLC Amer Ali Khan has called upon Muslim youth to embrace entrepreneurship as a means of achieving self-reliance and economic empowerment. Addressing a gathering, he emphasized the need for skill development, innovation, and government support to create sustainable business opportunities. Khan highlighted that entrepreneurship is a key driver of social progress and can help uplift the community by generating employment and fostering economic independence.",
+            "content2": "He urged young individuals to explore opportunities in diverse industries, stressing that with proper guidance and perseverance, they can become successful entrepreneurs. Khan also emphasized the importance of education and technology in building strong business foundations.",
+            "subheading1": "",
+            "subcontent11": "His call to action aligns with ongoing efforts to encourage startups and small businesses, ensuring that young entrepreneurs contribute to the nation’s growth while strengthening their communities.",
+            "subcontent12": "",
+            "subcontent13": "",
+            "subheading2": "",
+            "subcontent21": "",
+            "subcontent22": "",
+            "subcontent23": "",
+            "subheading3": "",
+            "subcontent31": "",
+            "subcontent32": "",
+            "subcontent33": "",
+            "image_url1": "assets/images/youth.jpeg",
+            "image_url2": ""
+        },
         
     ];
 

@@ -24001,6 +24001,9 @@ html[dir="rtl"] .choices__input {
 .c-fff{
   color: #fff;
 }
+.c-003f74{
+  color: #003f74;
+}
 
 .bg-14a2b8{
   background-color: #1169b2 !important;
@@ -24041,4 +24044,8 @@ html[dir="rtl"] .choices__input {
   .pb-xs-0{
     padding-bottom: 0px !important;
   }
+}
+
+.activityDetail p {
+  color: #000 !important;
 }
