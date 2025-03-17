@@ -154,6 +154,27 @@ document.addEventListener("DOMContentLoaded", function () {
             "image_url1": "assets/images/rajivyuvavikas.png",
             "image_url2": ""
         },
+        {
+            "id": "sbdfsyfhsak_u",
+            "date": "Hyderabad, March 17, 2025",
+            "title": "MLC Amer Ali Khan Demands Special Law to Protect Minorities in Telangana",
+            "content1": "Congress MLC Amer Ali Khan has urged the Telangana government to introduce a special law to curb the rising attacks on minorities and ensure their safety. Raising the issue as a Special Mention in the Telangana Legislative Council, Amer Ali Khan expressed deep concern over the increasing incidents of violence targeting minority communities and called for immediate legislative action to safeguard their rights.",
+            "content2": "",
+            "subheading1": "Call for Legislative Protection",
+            "subcontent11": "Amer Ali Khan highlighted the growing fear and insecurity among minorities due to sporadic incidents of violence. He noted that while the Congress-led government in Telangana is actively working for the welfare of minorities, the recurring attacks are undermining these efforts and creating a hostile environment for vulnerable communities.",
+            "subcontent12": "He pointed out that even minor incidents were escalating into targeted assaults, raising serious concerns about the safety and dignity of minorities in the state. To address this issue, he proposed the introduction of a special law that would provide stronger legal protections, stricter punishments for hate crimes, and a more robust mechanism for preventing communal violence.",
+            "subcontent13": "",
+            "subheading2": "Ensuring Safety and Justice",
+            "subcontent21": "Amer Ali Khan emphasized that the protection of minorities is not just a political issue but a fundamental human rights concern. He urged the Telangana government to take proactive steps to prevent hate crimes and ensure justice for the victims of violence. According to him, a special law could serve as a deterrent against communal attacks and reinforce the government's commitment to secularism and social harmony.",
+            "subcontent22": "He also acknowledged the efforts of the Congress government in implementing welfare schemes and initiatives for minorities. However, he stressed that such welfare programs must be complemented by strong legal safeguards to ensure that minorities can live without fear and fully participate in the state’s progress.",
+            "subcontent23": "",
+            "subheading3": "Urgent Need for Action",
+            "subcontent31": "Amer Ali Khan’s demand for a special legislation comes at a critical time when concerns about communal violence are increasing. He called upon all political parties, civil society organizations, and human rights activists to support this initiative and work collectively towards fostering an inclusive and peaceful Telangana.",
+            "subcontent32": "",
+            "subcontent33": "As Telangana continues its journey towards progress and development, the protection of its diverse communities remains a key priority. The introduction of a special law for minorities could be a significant step toward ensuring justice, equality, and security for all citizens of the state.",
+            "image_url1": "assets/images/minorities-legislation.jpeg",
+            "image_url2": ""
+        },
         
     ];
 
