@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "subcontent32": "As Telangana moves towards greater economic self-sufficiency, schemes like Rajiv Yuva Vikas serve as a beacon of hope for thousands of young individuals aspiring to build their own futures. With the right guidance and support, this initiative could significantly transform the entrepreneurial landscape of the state.",
             "subcontent33": "",
             "image_url1": "assets/images/rajivyuvavikas.png",
-            "image_url2": ""
+            "image_url2": "assets/images/banner2.png"
         },
         {
             "id": "sbdfsyfhsak_u",
@@ -223,6 +223,10 @@ document.addEventListener("DOMContentLoaded", function () {
             document.getElementById("activity-sub-content34").textContent = activity.subcontent34;
             document.getElementById("activity-image1").src = activity.image_url1;
             document.getElementById("activity-image2").src = activity.image_url2;
+            document.getElementById("og-title").setAttribute("content", activity.title);
+            document.getElementById("og-description").setAttribute("content", activity.content1);
+            document.getElementById("og-image").setAttribute("content", "https://www.siasathub.com/" + activity.image_url1);
+            document.getElementById("og-url").setAttribute("content", window.location.href);
         } else {
             document.body.innerHTML = "<h2>Activity Not Found</h2>";
         }

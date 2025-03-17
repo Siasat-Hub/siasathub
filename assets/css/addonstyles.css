@@ -54,4 +54,36 @@
   font-size: 13px;
   color: white;
 }
-
+.carousel{
+  height: 475px;
+  margin-top: 0 !important;
+  padding-top: 0px ! important;
+  padding-left: 0px !important;
+  padding-right: 0px ! important;
+}
+.pl-0{
+  padding-left: 0px !important;
+}
+.pr-0{
+  padding-right: 0px !important;
+}
+.ml-0{
+  margin-left: 0px !important;
+}
+.mr-0{
+  margin-right: 0px !important;
+}
+.watchvideo{
+  position: absolute;
+  top: 36%;
+  right: 27%;
+  overflow: visible !important;
+  margin-bottom: 0 !important;
+}
+.rajivyuva{
+  position: absolute;
+  top: 20%;
+  right: 5%;
+  overflow: visible !important;
+  margin-bottom: 0 !important;
+}
