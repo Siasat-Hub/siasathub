@@ -133,6 +133,27 @@ document.addEventListener("DOMContentLoaded", function () {
             "image_url1": "assets/images/youth.jpeg",
             "image_url2": ""
         },
+        {
+            "id": "7",
+            "date": "Hyderabad, March 17, 2025",
+            "title": "Amer Ali Khan Urges Youth to Benefit from Rajiv Yuva Vikas Scheme",
+            "content1": "In a significant move to empower unemployed youth in Telangana, Amer Ali Khan, Telangana MLC and Managing Editor of Siasat, has encouraged young individuals to take full advantage of the Rajiv Yuva Vikas Scheme. With a substantial budget allocation of Rs. 6,000 crore, this scheme aims to provide financial support to around five lakh eligible youth, enabling them to establish their own businesses and achieve financial independence.",
+            "content2": "",
+            "subheading1": "Empowering Youth Through Financial Assistance",
+            "subcontent11": "Under this initiative, each eligible individual will receive Rs. 3 lakh through the SC, ST, BC, and Minority Finance Corporations. The funding is designed to help young entrepreneurs launch their own ventures, fostering self-reliance and economic growth across various communities in the state.",
+            "subcontent12": "Speaking on the importance of the scheme, Amer Ali Khan emphasized the need for the youth to seize this golden opportunity. He highlighted how government-backed financial assistance can serve as a strong foundation for aspiring business owners, especially those struggling with limited access to capital.",
+            "subcontent13": "",
+            "subheading2": "Eligibility and Application Process",
+            "subcontent21": "The Rajiv Yuva Vikas Scheme is open to unemployed youth from Scheduled Castes (SC), Scheduled Tribes (ST), Backward Classes (BC), and Minority communities. The application process is expected to be streamlined, with government agencies facilitating the selection and disbursement of funds. Eligible candidates will be required to submit their business proposals, which will be reviewed before approval.",
+            "subcontent22": "The initiative is not only aimed at providing financial aid but also at encouraging entrepreneurship, reducing dependency on traditional employment opportunities, and uplifting marginalized communities. By enabling youth to start their own businesses, the scheme is expected to generate employment at the grassroots level, contributing to overall economic development in Telangana.",
+            "subcontent23": "For online applications and detailed guidelines, interested candidates can visit the official government website: https://tgobmms.cgg.gov.in/.",
+            "subheading3": "Amer Ali Khan’s Call to Action",
+            "subcontent31": "Amer Ali Khan has urged youth across Telangana to come forward and apply for the scheme without hesitation. He stressed the importance of taking proactive steps toward self-employment and financial stability. His advocacy for such initiatives aligns with his broader vision of empowering minority communities and ensuring inclusive economic progress.",
+            "subcontent32": "As Telangana moves towards greater economic self-sufficiency, schemes like Rajiv Yuva Vikas serve as a beacon of hope for thousands of young individuals aspiring to build their own futures. With the right guidance and support, this initiative could significantly transform the entrepreneurial landscape of the state.",
+            "subcontent33": "",
+            "image_url1": "assets/images/rajivyuvavikas.png",
+            "image_url2": ""
+        },
         
     ];
 
