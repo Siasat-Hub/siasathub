@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // JSON Object storing all activity details
     const activities = [
         {
-            "id": "1",
+            "id": "m78he3kqe",
             "date": "Hyderabad, December 1, 2024",
             "title": "MLC Amer Ali Khan Launches S-Hub to Empower Youth and Entrepreneurs.",
             "content1": "On November 29, 2024, Amer Ali Khan, Member of the Legislative Council (MLC) and News Editor of The Siasat Daily, inaugurated S-Hub, an initiative aimed at providing employment assistance, skill development, and startup guidance. The launch event took place at The Siasat Daily Auditorium in Hyderabad, attended by media representatives, entrepreneurs, and community members.",
@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "image_url2": ""
         },
         {
-            "id": "2",
+            "id": "2478rthnwv",
             "date": "Hyderabad, 7th February 2025",
             "title": "The Consulate General of the Islamic Republic of Iran in Hyderabad Celebrates 46th National Day",
             "content1": "The Consulate General of the Islamic Republic of Iran in Hyderabad commemorated its 46th National Day on 7th February 2025, marking the anniversary of the establishment of the Islamic Republic. The event was held with great enthusiasm, bringing together dignitaries, diplomats, cultural enthusiasts, and prominent personalities from the city.",
@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "image_url2": "assets/images/a1.jpeg"
         },
         {
-            "id": "3",
+            "id": "k2opq42",
             "date": "Hyderabad, February 16, 2025 ",
             "title": "Amer Ali Khan to Speak at APCR’s Hyderabad Event on Justice and Democracy.",
             "content1": "The Association for Protection of Civil Rights (APCR), Hyderabad Chapter, is set to host an insightful discussion on the theme 'Making Sense of Justice in Changing Democracy'. The event, scheduled to take place at Nehru Auditorium, Madina Education Centre, Nampally, will bring together prominent activists, legal experts, and thought leaders to address the evolving nature of justice in contemporary democracy.",
@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "image_url2": "assets/images/a2.jpeg"
         },
         {
-            "id": "4",
+            "id": "o2ue9423ri",
             "date": "Hyderabad, February 22, 2025 ",
             "title": "S-Hub Collaborates with TOMCOM to Boost Employment Opportunities for Minorities in Telangana",
             "content1": "In a landmark initiative aimed at empowering minorities in Telangana, S-Hub, the newly proposed innovation and skill development center, is set to collaborate with the Telangana Overseas Manpower Company Limited (TOMCOM) to enhance employment opportunities. Under the visionary leadership of Telangana MLC Amer Ali Khan, this collaboration is expected to provide skill training, overseas employment assistance, and job placement support to thousands of aspiring job seekers from minority communities.",
@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "image_url2": "assets/images/tomcom2.jpeg"
         },
         {
-            "id": "5",
+            "id": "niqwfu32-",
             "date": "Hyderabad, February 27, 2025",
             "title": "Meenakshi Natarajan Joins TPCC Meeting: A Warm Welcome from Amer Ali Khan",
             "content1": "The Telangana Pradesh Congress Committee (TPCC) meeting witnessed a momentous occasion as Meenakshi Natarajan, Telangana In-Charge, participated in the discussions to strengthen the Congress party in the state. The event was marked by a grand welcome extended by Amer Ali Khan, Member of the Telangana Legislative Council (MLC), along with other prominent Congress leaders.",
@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "image_url2": ""
         },
         {
-            "id": "6",
+            "id": "bctwflk-2fr",
             "date": "Hyderabad, March 13, 2025",
             "title": "Congress MLC Amer Ali Khan Encourages Muslim Youth to Pursue Entrepreneurship",
             "content1": "Congress MLC Amer Ali Khan has called upon Muslim youth to embrace entrepreneurship as a means of achieving self-reliance and economic empowerment. Addressing a gathering, he emphasized the need for skill development, innovation, and government support to create sustainable business opportunities. Khan highlighted that entrepreneurship is a key driver of social progress and can help uplift the community by generating employment and fostering economic independence.",
@@ -134,7 +134,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "image_url2": ""
         },
         {
-            "id": "7",
+            "id": "ajsnf_",
             "date": "Hyderabad, March 17, 2025",
             "title": "Amer Ali Khan Urges Youth to Benefit from Rajiv Yuva Vikas Scheme",
             "content1": "In a significant move to empower unemployed youth in Telangana, Amer Ali Khan, Telangana MLC and Managing Editor of Siasat, has encouraged young individuals to take full advantage of the Rajiv Yuva Vikas Scheme. With a substantial budget allocation of Rs. 6,000 crore, this scheme aims to provide financial support to around five lakh eligible youth, enabling them to establish their own businesses and achieve financial independence.",
@@ -173,6 +173,48 @@ document.addEventListener("DOMContentLoaded", function () {
             "subcontent32": "",
             "subcontent33": "As Telangana continues its journey towards progress and development, the protection of its diverse communities remains a key priority. The introduction of a special law for minorities could be a significant step toward ensuring justice, equality, and security for all citizens of the state.",
             "image_url1": "assets/images/minorities-legislation.jpeg",
+            "image_url2": ""
+        },
+        {
+            "id": "mdbfufnsw8",
+            "date": "Hyderabad, March 18, 2025",
+            "title": "Amer Ali Khan Raises BC Quota Expansion to Aid Underprivileged Muslims in Telangana Assembly",
+            "content1": "The Telangana Legislative Council witnessed a significant debate on Tuesday as Congress Member of the Legislative Council (MLC) Amer Ali Khan strongly advocated for an increase in reservations for Backward Classes (BC) to 42%. The proposed bill, aimed at ensuring equitable representation and economic upliftment, was presented by the Congress-led government under Chief Minister A Revanth Reddy.",
+            "content2": "During his address, Amer Ali Khan termed the bill a historic step toward social justice, emphasizing the Congress government’s commitment to supporting marginalized communities. He noted that the government had conducted a comprehensive caste survey, revealing the necessity of increasing BC reservations in education, employment, and government services to correct historical injustices and disparities.",
+            "subheading1": "Commitment to Muslim BCs",
+            "subcontent11": "",
+            "subcontent12": "Addressing concerns regarding Muslim BCs, Khan assured that the existing 4% reservation for them would remain separate and unaffected by the new policy. He reaffirmed that Muslim BCs have long been recognized as part of the broader BC category across India and that their dedicated sub-quota ensures they do not compete with other BC groups for reservations.",
+            "subcontent13": "",
+            "subheading2": "Criticism of Opposition Parties",
+            "subcontent21": "In his speech, Amer Ali Khan criticized the Bharatiya Janata Party (BJP) for allegedly spreading misinformation aimed at creating divisions among BC communities. He also accused the Bharat Rashtra Samithi (BRS) of neglecting BC welfare during its decade-long rule, questioning why the BRS had not introduced the 42% reservation when it was in power.",
+            "subcontent22": "“The previous government had ample opportunities to address the needs of BC communities but failed to take meaningful action,” Khan stated, challenging opposition leaders to support the bill in the interest of social equity.",
+            "subcontent23": "",
+            "subheading3": "A Step Towards Social Equity",
+            "subcontent31": "The proposed increase in BC reservations is seen as a major political move by the Congress government, aligning with its broader agenda of social justice and empowerment. Amer Ali Khan urged all members of the Legislative Council to support the bill, highlighting its importance in ensuring fair representation and opportunities for BC communities, including economically disadvantaged Muslims.",
+            "subcontent32": "As the legislative session progresses, the bill’s approval will mark a crucial milestone in Telangana’s commitment to affirmative action, ensuring a more inclusive and equitable society for all underrepresented groups.",
+            "subcontent33": "",
+            "image_url1": "assets/images/bcquota.jpg",
+            "image_url2": ""
+        },
+        {
+            "id": "asbf84344tr",
+            "date": "Hyderabad, March 19, 2025",
+            "title": "Telangana Minority Budget 2025: A Historic Allocation of ₹3,591 Crore for Community Development",
+            "content1": "In a significant move towards the welfare of minorities, the Telangana government has announced an allocation of ₹3,591 crore in the state budget for the financial year 2025-26. This record-breaking minority budget aims to empower marginalized communities through education, employment, skill development, and social welfare initiatives.",
+            "content2": "In a significant move towards the welfare of minorities, the Telangana government has announced an allocation of ₹3,591 crore in the state budget for the financial year 2025-26. This record-breaking minority budget aims to empower marginalized communities through education, employment, skill development, and social welfare initiatives.",
+            "subheading1": "Key Highlights of the Budget Allocation",
+            "subcontent11": "The budget focuses on addressing the socio-economic challenges faced by minority communities, particularly Muslims, and ensuring equitable opportunities for growth. A major portion of the budget has been earmarked for scholarships, fee reimbursement, and hostel facilities to support students from economically disadvantaged backgrounds. Minority Residential Schools and Junior Colleges will be strengthened to provide quality education.",
+            "subcontent12": "Employment and skill development initiatives will see an expansion of training programs under the Telangana Minority Finance Corporation, which will provide financial assistance for self-employment. New skill development centers will be launched in collaboration with national and international organizations to enhance job opportunities for minority youth.",
+            "subcontent13": "Infrastructure development will be supported through allocations for the construction and maintenance of religious and cultural centers that serve as hubs for community welfare programs. Additionally, modernization efforts for Waqf Board properties aim to generate revenue and benefit the community.",
+            "subheading2": "",
+            "subcontent21": "Healthcare and social welfare provisions will include special health schemes targeting minority women and children, ensuring better medical access and support. Financial assistance programs for underprivileged families will be introduced to uplift their living standards.",
+            "subcontent22": "",
+            "subcontent23": "",
+            "subheading3": "Political Reactions and Future Implications",
+            "subcontent31": "The budget has received widespread support from various community leaders and political representatives. Congress MLC Amer Ali Khan, a strong advocate for minority rights, praised the initiative, stating, “This budget reflects the Telangana government’s commitment to ensuring social justice and economic upliftment for minorities.” However, opposition parties have raised concerns about the effective implementation of the allocated funds, urging transparency and accountability in their distribution.",
+            "subcontent32": "As the Telangana government moves forward with its ambitious plans for minority development, the ₹3,591 crore allocation marks a significant step in fostering inclusivity and empowering disadvantaged communities across the state. The success of these initiatives will depend on their execution and the government's ability to address long-standing socio-economic disparities.",
+            "subcontent33": "",
+            "image_url1": "assets/images/assemblybudget.jpeg",
             "image_url2": ""
         },
         

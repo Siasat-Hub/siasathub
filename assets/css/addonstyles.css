@@ -87,3 +87,12 @@
   overflow: visible !important;
   margin-bottom: 0 !important;
 }
+@media (max-width: 575.98px) {
+  .carousel{
+    height: 200px;
+  }
+
+  .ptsm-25{
+    padding-top: 25px !important;
+  }
+}
