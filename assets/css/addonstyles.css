@@ -87,6 +87,20 @@
   overflow: visible !important;
   margin-bottom: 0 !important;
 }
+.cdot{
+  position: absolute;
+  top: 50%;
+  left: 16%;
+  overflow: visible !important;
+  margin-bottom: 0 !important;
+}
+.cdot_enroll{
+  position: absolute;
+  top: 50%;
+  left: 32%;
+  overflow: visible !important;
+  margin-bottom: 0 !important;
+}
 @media (max-width: 575.98px) {
   .carousel{
     height: 200px;
